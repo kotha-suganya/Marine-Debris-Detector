@@ -16,7 +16,7 @@ Initial metrics indicate steady optimization within the first few epochs:
 
 Image Size: 256x256
 
-Hardware: Tesla T4 GPU (~0.48G memory utilization per batch)
+Hardware: Tesla T4 GPU
 
 Optimization Progression:
 
