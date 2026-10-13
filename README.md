@@ -10,7 +10,7 @@ Marine debris is a critical threat to global oceanic ecosystems. This repository
 
 
 
-The model successfully initiates training on 739 images containing 1640 distinct debris instances.
+The model successfully initiates training on 739 images containing 1640 distinct debris instances. And predicts the presence of debris based on the confidence score.
 
 Initial metrics indicate steady optimization within the first few epochs:
 
