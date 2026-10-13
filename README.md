@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Marine debris is a critical threat to global oceanic ecosystems. This repository contains a pipeline that handles:
 1. **Data Ingestion:** Automatically fetching raw data from the NASA/Source Cooperative S3 repository.
-2. **Data Parsing:** Converting NASA's bounding box coordinates (`.npy` & `.geojson`) into standard normalized YOLO format.
+2. **Data Parsing:** Converting NASA's bounding box coordinates (`.npy`) into standard normalized YOLO format.
 3. **Model Training:** Training an ultralightweight `YOLOv8n` model optimized for rapid detection.
 4. **Inference & Evaluation:** Testing the trained weights on web or local test images to visually verify detections.
 
